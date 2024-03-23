@@ -1,2 +1,1 @@
-# linklaborat-rio
-Link para enviar email para o laboratório
+Envie um email para o laboratório: https://laislinda3.github.io/linklaborat-rio/
